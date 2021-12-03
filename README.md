@@ -6,3 +6,4 @@ A simple puzzle game written in c++
 
 ## Buiding/Compiling
 `g++ main.cpp -o puzzle -lSDL2 -lSDL2_image`
+![alt screenshort](screenshot.png)
